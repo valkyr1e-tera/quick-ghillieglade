@@ -1,4 +1,4 @@
-module.exports = function Quick(mod) {
+module.exports = function QuickGG(mod) {
   const Vec3 = require('tera-vec3')
 
   mod.hook('S_SPAWN_ME', 3, event => {
