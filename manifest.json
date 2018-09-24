@@ -1,0 +1,9 @@
+{
+	"files": {
+		"index.js": "b77b94abd4e2a8e7fb4fee59145b8810f0b9cea036ccbfd462c6c31e6b89368e",
+		"module.json": "f173f2c72a6488f74018a8c2b5fe2da38c9c1d3a2822a113aa7e8a6acf359381"
+	},
+	"defs": {
+		"S_SPAWN_ME": 3
+	}
+}
