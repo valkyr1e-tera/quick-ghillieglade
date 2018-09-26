@@ -1,9 +1,10 @@
 {
 	"files": {
-		"index.js": "07f5d289f54787a7ff0de4f2eac2f0627b84dbeb9620c86e6fa5e853b9d6bc2e",
+		"index.js": "e39ba0d0071e1822135de74f35c358b0d800aab3e47d71bb18abd84573da7fd0",
 		"module.json": "f173f2c72a6488f74018a8c2b5fe2da38c9c1d3a2822a113aa7e8a6acf359381"
 	},
 	"defs": {
+		"C_PLAYER_LOCATION": 5,
 		"S_SPAWN_ME": 3
 	}
 }
